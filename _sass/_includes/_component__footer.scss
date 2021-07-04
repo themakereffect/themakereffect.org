@@ -32,7 +32,7 @@
 	      color: $accent-color;
 	    }
 	}
-	
+
 	.footer__copyright {
 
 		@include mq(tabletp) {
@@ -55,8 +55,9 @@
 
 		.footer__logo {
 			justify-self: start;
+			width: $footer-logo-width;
 		}
-		
+
 		.footer__copyright {
 			justify-self: end;
 		}
