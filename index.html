@@ -21,7 +21,8 @@ featured_image: /images/square_black.jpg
 
 			<p class="intro subtitle--light">
 				{{ page.description }}
-				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
+				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Contact Us</a>
+				<!-the above contact us only shows in min-width view since it is normally in the menu->
 			</p>
 		</div>
 	</section>
@@ -29,6 +30,7 @@ featured_image: /images/square_black.jpg
 	<section class="listing">
 		<div class="wrap">
 
+			<a id='programs'></a>
 			{% for project in site.projects reversed %}
 
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
@@ -38,7 +40,7 @@ featured_image: /images/square_black.jpg
 
 				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
 					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+					<a href="{{ project.external_link }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
 					{% endfor %}
 				</div>
 
