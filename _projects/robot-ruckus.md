@@ -1,16 +1,16 @@
 ---
-title: Maker Faire Orlando
-subtitle: The Greatest Show (& Tell) on Earth!
-date: 2019-07-24 00:00:00
-description: Maker Faire is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. From engineers to artists to scientists to crafters, Maker Faire is a venue for these “makers” to show hobbies, experiments, projects.
+title: Robot Ruckus
+subtitle: It's Robot Fighting Time!
+date: 2016-07-24 00:00:00
+description: Your favorite robots destroying each other for your amusement!
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
   - demo.jpg
   - demo.jpg
   - demo.jpg
-external_link: https://www.makerfaireorlando.com
-external_link_text: Learn more at makerfaireorlando.com
+external_link: https://www.robotruckus.org
+external_link_text: Learn more at robotruckus.org
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.

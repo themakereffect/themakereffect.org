@@ -1,16 +1,16 @@
 ---
-title: Maker Faire Orlando
-subtitle: The Greatest Show (& Tell) on Earth!
+title: BrightBikes
+subtitle: Light Up Your Community!
 date: 2019-07-24 00:00:00
-description: Maker Faire is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. From engineers to artists to scientists to crafters, Maker Faire is a venue for these “makers” to show hobbies, experiments, projects.
+description: Build and join a fleet of art bikes created by Central Florida makers!
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
   - demo.jpg
   - demo.jpg
   - demo.jpg
-external_link: https://www.makerfaireorlando.com
-external_link_text: Learn more at makerfaireorlando.com
+external_link: https://www.brightbikes.org
+external_link_text: Learn more at brightbikes.org
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
