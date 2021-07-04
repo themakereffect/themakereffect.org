@@ -4,7 +4,7 @@ subtitle: It's Robot Fighting Time!
 date: 2016-07-24 00:00:00
 description: Your favorite robots destroying each other for your amusement!
 featured_image: demo.jpg
-accent_color: '#4C60E6'
+accent_color: '#ff2a13'
 gallery_images:
   - demo.jpg
   - demo.jpg

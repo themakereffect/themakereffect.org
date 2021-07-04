@@ -14,7 +14,7 @@ menu_settings:
       url: '/donate/'
 
 footer_settings:
-  logo_image: /images/site-branding/perspective_black.png
+  logo_image: /images/site-branding/perspective_red.png
   logo_width: 300
   tagline: The Maker Effect is the result of makers learning, educating, sharing and creating together.
 
@@ -66,7 +66,7 @@ color_settings:
   text_dark_color: '#202224'
   text_medium_color: '#6C7A89'
   text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
+  accent_color: '#ff2a13'
   border_color: '#ECEDEF'
   error_color: '#D64541'
 

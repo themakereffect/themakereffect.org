@@ -4,7 +4,7 @@ subtitle: MakerFX Makerspace is a community makerspace in South Orlando.
 date: 2019-07-24 00:00:00
 description: We welcome makers of all types, from crafters to artists to robotics builders. Whatever you like to make, you'll find a welcoming community that can help you learn, and wants to learn from you.
 featured_image: demo.jpg
-accent_color: '#4C60E6'
+accent_color: '#ff2a13'
 gallery_images:
   - demo.jpg
   - demo.jpg
