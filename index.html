@@ -1,9 +1,9 @@
 ---
 layout: default
-overtitle: Made is a Jekyll theme
-title: For designers and web developers
-description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
-featured_image: /images/social.jpg
+#overtitle: Made is a Jekyll theme
+title: The Maker Effect Foundation
+description: The Maker Effect is the result of makers learning, educating, sharing and creating together.
+featured_image: /images/square_black.jpg
 ---
 
 <div class="page-home">
@@ -46,8 +46,8 @@ featured_image: /images/social.jpg
 					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
 					<p class="project__description --small">
 						{{ project.description }}
-						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
+						<a href="{{ project.external_link }}" class="project__link button--text --right"
+							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">{{ project.external_link_text }}</a>
 					</p>
 				</div>
 			</article>

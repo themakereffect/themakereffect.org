@@ -1,14 +1,16 @@
 ---
-title: Mobile app
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+title: MakerFX Makerspace
+subtitle: MakerFX Makerspace is a community makerspace in South Orlando.
 date: 2019-07-24 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: We welcome makers of all types, from crafters to artists to robotics builders. Whatever you like to make, you'll find a welcoming community that can help you learn, and wants to learn from you.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
   - demo.jpg
   - demo.jpg
   - demo.jpg
+external_link: https://www.makerfx.org
+external_link_text: Learn more at makerfx.org
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.
