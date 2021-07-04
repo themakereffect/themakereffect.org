@@ -1,22 +1,23 @@
 basic_settings:
-  site_title: Made
+  site_title: The Maker Effect
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
-  logo_width: 100
+  logo_image: /images/site-branding/long_black.png
+  logo_width: 350
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Programs'
       url: '/'
-    - title: 'Blog'
+    - title: 'News'
       url: '/blog/'
 
 footer_settings:
-  logo_image: 
-  logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  logo_image: /images/site-branding/perspective_black.png
+  logo_width: 300
+  tagline: The Maker Effect is the result of makers learning, educating, sharing and creating together.
+
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
