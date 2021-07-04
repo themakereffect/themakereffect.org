@@ -6,6 +6,7 @@ description: We welcome makers of all types, from crafters to artists to robotic
 featured_image: demo.jpg
 accent_color: '#ff2a13'
 gallery_images:
+  - mfx-etch-tag.jpg
   - mfx-bumblebee-helmet.jpg
   - mfx-barudan-penguin.jpg
   - mfx-forest-screen.jpg
