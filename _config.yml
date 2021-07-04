@@ -1,7 +1,18 @@
-site: Made Jekyll Theme
+site: The Maker Effect Foundation
 
-url: 
-baseurl: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+#begin seo
+title: The Maker Effect Foundation
+tagline: Make With Us!
+description: The Maker Effect is the sum of the personal growth, professional success, community development, and continuous innovation that results when makers learn, educate, share, and create together.
+logo: /images/site-branding/square_black.png
+
+url:
+baseurl:
 
 collections:
   pages:
@@ -50,7 +61,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-  
+
 sass:
   style: compressed
 
