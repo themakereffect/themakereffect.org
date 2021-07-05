@@ -6,9 +6,9 @@ description: Build and join a fleet of art bikes created by Central Florida make
 featured_image: demo.jpg
 accent_color: '#ff2a13'
 gallery_images:
-  - bright-bikes-neon-eola.jpg
-  - bright-bikes-pixel-eola-dual.jpg
-  - bright-bikes-ivanhoe.jpg
+  - brightbikes-neon-eola.jpg
+  - brightbikes-pixel-eola-dual.jpg
+  - brightbikes-ivanhoe.jpg
 external_link: https://www.brightbikes.org
 external_link_text: Learn more at brightbikes.org
 ---
