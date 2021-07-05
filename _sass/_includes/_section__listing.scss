@@ -5,7 +5,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .listing {
-  margin-bottom: 120px;
+  margin-bottom: 60px;
   overflow: hidden;
 }
 
@@ -190,7 +190,7 @@
 
   @include mq(tabletp) {
     &:not(:last-child) {
-      margin-bottom: 120px;
+      margin-bottom: 60px;
     }
 
     .owl-dots {
