@@ -1,14 +1,15 @@
 ---
 title: Robot Ruckus
 subtitle: It's Robot Fighting Time!
-date: 2016-07-24 00:00:00
+date: 2019-01-01 00:00:00
 description: Robot Ruckus promotes STEM education through robotics classes & competitions culminating in the annual Robot Ruckus event at Maker Faire Orlando. This competition features over 100 robot competitors from 1 pound to the 250 pound robots you've seen on the BattleBots TV show on the Discovery Channel!
 featured_image: demo.jpg
 accent_color: '#ff2a13'
 gallery_images:
   - ruckus-kracken-girl-2019.jpg
-  - ruckus-logo.jpg
+  - ruckus-hypershock-krusty-grab.jpg
   - ruckus-robot-builder.jpg
+
 external_link: https://www.robotruckus.org
 external_link_text: Learn more at robotruckus.org
 ---

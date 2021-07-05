@@ -1,15 +1,15 @@
 ---
-title: MakerFX Makerspace
-subtitle: MakerFX Makerspace is a community makerspace in South Orlando.
-date: 2019-07-24 00:00:00
-description: We welcome makers of all types, from crafters to artists to robotics builders. Whatever you like to make, you'll find a welcoming community that can help you learn, and wants to learn from you.
+title: MakerFX
+subtitle: Learn, Make, & Help Others!
+date: 2021-01-21 00:00:00
+description: We welcome makers of all types, from crafters to artists to robotics builders. Whatever you like to make, you'll find a welcoming community that can help you learn, and wants to learn from you. You can find us on YouTube or at MakerFX Makerspace in Orlando.
 featured_image: demo.jpg
 accent_color: '#ff2a13'
 gallery_images:
-  - mfx-etch-tag.jpg
   - mfx-bumblebee-helmet.jpg
   - mfx-barudan-penguin.jpg
   - mfx-forest-screen.jpg
+  - mfx-etch-tag.jpg
 
 external_link: https://www.makerfx.org
 external_link_text: Learn more at makerfx.org

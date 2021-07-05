@@ -1,7 +1,7 @@
 ---
 title: Maker Faire Orlando
 subtitle: The Greatest Show (& Tell) on Earth!
-date: 2019-07-24 00:00:00
+date: 2020-01-01 00:00:00
 description: Maker Faire is a gathering of fascinating, curious people who enjoy learning and who love sharing what they can do. From engineers to artists to scientists to crafters, Maker Faire is a venue for these “makers” to show hobbies, experiments, projects.
 featured_image: demo.jpg
 accent_color: '#ff2a13'

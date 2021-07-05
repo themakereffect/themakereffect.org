@@ -1,7 +1,7 @@
 ---
 title: BrightBikes
 subtitle: Light Up Your Community!
-date: 2019-07-24 00:00:00
+date: 2018-01-01 00:00:00
 description: Build and join a fleet of art bikes created by Central Florida makers!
 featured_image: demo.jpg
 accent_color: '#ff2a13'
