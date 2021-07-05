@@ -1,6 +1,7 @@
 basic_settings:
   site_title: The Maker Effect
-  favicon_image: /images/favicon.png
+  #favicon_image: /images/favicon.png
+  #favicon is now hard-coded in default.html
 
 header_settings:
   logo_image: /images/site-branding/square_red_rocket.png
