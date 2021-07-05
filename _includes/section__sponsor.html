@@ -1,0 +1,29 @@
+<section class="about">
+  {% if include.divider == true %}
+    <div class="wrap"><hr/></div>
+    {% endif %}
+  <div class="wrap grid">
+
+    <div class="about__image">
+      <img src="{{ '/images/sponsor-prusa.jpg' | relative_url }}" alt="Prusa Research as a sponsor at Maker Faire Orlando 2019">
+
+      {% include component-socials.html %}
+    </div>
+
+    <div class="about__content">
+      <h2 class="title">Our Sponsors Make It All Possible!</h2>
+      <p class="subtitle subtitle--light">
+      </p>
+
+      <p>If your organization supports STEAM (Science, Technology, Engineering, Arts & Math) education,
+        community arts, or other community impact objectives,
+        you can make a huge impact by sponsoring the programs of The Maker Effect Foundation.
+        We work with our sponsors to match TMEF programs to your community objectives, and to create
+        tailored activations that engage the local community with sponsor brands and products.</p>
+      <p>For more information on sponsoring TMEF programs, use the contact form below,
+          or email us at <a href="community@themakereffect.org">community@themakereffect.org</a></p>
+
+      <a href="#" class="cta button--fill contact-trigger js-contact">Contact Us</a>
+    </div>
+  </div>
+</section>
