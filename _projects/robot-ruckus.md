@@ -6,9 +6,9 @@ description: Your favorite robots destroying each other for your amusement!
 featured_image: demo.jpg
 accent_color: '#ff2a13'
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - ruckus-logo.jpg
+  - ruckus-kracken-girl-2019.jpg
+  - ruckus-robot-builder.jpg
 external_link: https://www.robotruckus.org
 external_link_text: Learn more at robotruckus.org
 ---
