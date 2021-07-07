@@ -13,6 +13,14 @@ menu_settings:
       url: '#programs'
     - title: 'Donate'
       url: '/donate/'
+    - title: 'Volunteer'
+      url: '/volunteer/'
+    - title: 'Press Kit'
+      url: '/press-kit/'
+    - title: 'Contact'
+      url: '/contact-us/'
+
+
 
 footer_settings:
   logo_image: /images/site-branding/perspective_red.png
