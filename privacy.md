@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
+permalink: /privacy/
 #subtitle: The Maker Effect Foundation Privacy Policy
 description: The Maker Effect Foundation, Inc. understands that privacy is important to those we interact with, and this privacy policy exists to explain what information we collect, how we use it, and what we’re doing to keep it safe.
 ---
