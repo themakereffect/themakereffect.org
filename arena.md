@@ -1,0 +1,80 @@
+---
+layout: default
+title: Support Combat Robotics!
+permalink: /arena/
+redirect: /arena
+description: The Maker Effect Foundation programs such as Robot Ruckus are made possible through generous donations from our local community, including individuals, companies, and organizations.
+
+featured_image: /images/site-branding/square_red.png
+---
+<div class="page-post">
+
+	<header>
+		<div class="wrap">
+			<h3 class="post__title">Donate to the support the Robot Ruckus Combat Robotics Programs</h3>
+		</div>
+	</header>
+
+	<section class="post-full">
+
+		<div class="wrap">
+
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<p class="hero__text">The Maker Effect Foundation programs such as Robot Ruckus are made possible through generous donations from our local community, including individuals, companies, and organizations. Your donations help fund repairs and upgrades for the Robot Ruckus arena!</p>
+			</article>
+
+		</div>
+
+		<div class="wrap">
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<h4>Donate using PayPal</h4>
+				<p>Use the button below to be redirected to PayPal to make a donation with a credit card or other PayPal payment method.</p>
+				<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+					<input type="hidden" name="cmd" value="_s-xclick"><br>
+					<input type="hidden" name="hosted_button_id" value="C37FGF76JCX82"><br>
+					<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button"><br>
+					<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"><br>
+				</form>
+			</article>
+		</div>
+
+		<div class="wrap">
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<h4>Donate via Check or Other Form of Payment</h4>
+				<p>To donate via check or other form of payment, please email <a href="mailto:treasurer@themakereffect.org">treasurer@themakereffect.org</a>.</p>
+			</article>
+		</div>
+
+		<div class="wrap">
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<h4>In-kind Donations</h4>
+				<p>In-kind donations of products or services are welcomed. please email <a href="mailto:community@themakereffect.org">community@themakereffect.org</a> to discuss.</p>
+			</article>
+		</div>
+
+		<div class="wrap">
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<h4>Volunteer</h4>
+				<p>To support TMEF programs by volunteering, email us at <a href="mailto:volunteer@themakereffect.org">volunteer@themakereffect.org</a> to discuss volunteer opportunties.</p>
+
+			</article>
+		</div>
+
+		<div class="wrap">
+			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+				<h4>Sponsor</h4>
+				<p>If your organization supports STEAM (Science, Technology, Engineering, Arts & Math) education,
+					community arts, or other community impact objectives,
+					you can make a huge impact by sponsoring the programs of The Maker Effect Foundation.
+					We work with our sponsors to match TMEF programs to your community objectives, and to create
+					tailored activations that engage the local community with sponsor brands and products.</p>
+				<p>For more information on sponsoring TMEF programs, use the contact form below,
+						or email us at <a href="community@themakereffect.org">community@themakereffect.org</a></p>
+
+				<a href="#" class="cta button--fill contact-trigger js-contact">Contact Us</a>
+			</article>
+		</div>
+
+	</section>
+
+</div>
